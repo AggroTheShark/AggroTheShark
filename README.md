@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Agggro, un estudiante de ingeniería informática por la Universidad de Oviedo. Actualmente estoy en tercer curso y me encanta programar.
+¡Hola! Soy Aggro, un estudiante de ingeniería informática por la Universidad de Oviedo. Actualmente estoy en tercer curso y me encanta programar.
 
 ## Sobre mí
 
