@@ -1,18 +1,28 @@
-<!--
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub 👋
 
-**AggroTheShark/AggroTheShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Agggro, un estudiante de ingeniería informática por la Universidad de Oviedo. Actualmente estoy en tercer curso y me encanta programar.
 
+## Sobre mí
 
-Here are some ideas to get you started:
+Aunque aún no he terminado mis estudios de grado, considero que mis habilidades pueden ser de utilidad. Mi objetivo es seguir mejorándolas y poder ser de más ayuda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En particular, siento especial atracción por programar en Java, es el lenguaje que más domino.
 
+## Habilidades
+
+ - 💻 Lenguajes de programación: Java, C#, Python
+ - 🛠 Tecnologías y herramientas: Eclipse, Visual Studio, Visual Studio Code, GitHub
+
+## Proyectos destacados
+
+(Ninguno por ahora, en cuanto me ponga a trabajar en alguno lo pondré aquí)
+
+## Contacto
+
+- 📧 Correo electrónico: aresg03@gmail.com
+- 🐦 Twitter/X: @AggroTheShark
+
+## Estadísticas de GitHub
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AggroTheShark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/AggroTheShark)
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si te gustaría colaborar conmigo en algún proyecto, ya sea mío o tuyo. Será un placer trabajar contigo.
