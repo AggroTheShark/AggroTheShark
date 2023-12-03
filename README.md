@@ -20,7 +20,7 @@ En particular, siento especial atracción por programar en Java, es el lenguaje 
 ## Contacto
 
 - 📧 Correo electrónico: aresg03@gmail.com
-- 🐦 Twitter/X: @AggroTheShark
+- 🐦 Twitter/X: https://twitter.com/AggroTheShark
 
 ## Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AggroTheShark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/AggroTheShark)
