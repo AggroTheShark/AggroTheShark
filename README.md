@@ -1,17 +1,17 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Aggro, un estudiante de ingeniería informática por la Universidad de Oviedo. Actualmente estoy en tercer curso y me encanta programar.
+¡Hola! Soy Aggro, un estudiante de ingeniería informática por la Universidad de Oviedo, actualmente estoy en tercer curso.
 
 ## Sobre mí
 
-Aunque aún no he terminado mis estudios de grado, considero que mis habilidades pueden ser de utilidad. Mi objetivo es seguir mejorándolas y poder ser de más ayuda.
-
-En particular, siento especial atracción por programar en Java, es el lenguaje que más domino.
+Aunque aún no he terminado mis estudios de grado, considero que mis habilidades pueden ser de utilidad. Siento más predisposición por trabajar en proyectos que empleen Java como lenguaje de programación principal, ya que es el lenguaje de programación que más domino, pero puedo adaptarme a otros perfectamente.
 
 ## Habilidades
 
  - 💻 Lenguajes de programación: Java, C#, Python
  - 🛠 Tecnologías y herramientas: Eclipse, Visual Studio, Visual Studio Code, GitHub
+
+También me encuentro aprendiendo a usar JavaScript.
 
 ## Proyectos destacados
 
@@ -19,7 +19,7 @@ En particular, siento especial atracción por programar en Java, es el lenguaje 
 
 ## Contacto
 
-- 📧 Correo electrónico: aresg03@gmail.com
+- 📧 Correo electrónico: aresgf03@gmail.com
 - 🐦 Twitter/X: https://twitter.com/AggroTheShark
 
 ## Estadísticas de GitHub
