@@ -21,6 +21,7 @@ También me encuentro aprendiendo a usar JavaScript.
 
 - 📧 Correo electrónico: aresgf03@gmail.com
 - 🐦 Twitter/X: https://twitter.com/AggroTheShark
+- 🎮 Discord: @aggro_the_shark
 
 ## Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AggroTheShark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/AggroTheShark)
