@@ -15,7 +15,8 @@ También me encuentro aprendiendo a usar JavaScript.
 
 ## Proyectos destacados
 
-(Ninguno por ahora, en cuanto me ponga a trabajar en alguno lo pondré aquí)
+### [DetectiveDesk](https://github.com/AggroTheShark/Detective-Desk)
+Proyecto para mi TFG. Por ahora solo es una vaga idea y aún queda mucho desarrollo.
 
 ## Contacto
 
