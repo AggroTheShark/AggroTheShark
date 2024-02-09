@@ -2,6 +2,9 @@
 
 ¡Hola! Soy Aggro, un estudiante de ingeniería informática por la Universidad de Oviedo, actualmente estoy en tercer curso.
 
+![image](https://github.com/AggroTheShark/AggroTheShark/assets/124000288/f2d3b97c-6dff-43b7-9be9-c1a993586d77)
+
+
 ## Sobre mí
 
 Aunque aún no he terminado mis estudios de grado, considero que mis habilidades pueden ser de utilidad. Siento más predisposición por trabajar en proyectos que empleen Java como lenguaje de programación principal, ya que es el lenguaje de programación que más domino, pero puedo adaptarme a otros perfectamente.
