@@ -4,7 +4,7 @@
 >
 > _I can say the same thing about every one of you here tonight. You would spend every ounce of energy to hide from everyone in this room what has gone through your mind just in the last hour. Don’t tell me Scripture is not right when it talks about all men having sinned because **all men are evil**._
 >
-> But... If all men are evil... Does it make me insane?
+> _But... If all men are evil... Does it make me insane?_
 
 ----
 
