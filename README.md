@@ -1,26 +1,10 @@
 ## Hi, I'm Emilio "Aggro" García Fernández 🌸
 
-## 🍥 About me
 I'm a **Software Engineering** student from Asturias, **Spain**.
 
 I enjoy working mainly in **back-end**, and I love to offer solutions built with **clean code** and **maintainable designs**.
 
-### 🌱 Learning & Growth
-I'm always learning and improving, but right now I'm into:
-  * **Desktop apps:** Developing desktop apps using SpringBoot and JavaFX.
-  * **Web development:** Building full-stack JavaScript web apps using React, Nodejs and MongoDB.
-  * **Game development:** Creating games using Unity and C#.
-
-### 🎯 Goals
-My current goals include:
-- **Expanding my GitHub profile** by working on more personal projects that showcase my skills.
-- Contributing to keeping **code clean** and **maintainable** by following good practices, proper documentation, and continuous learning.
-
-### ✨ Workflow & Practices
-I believe in writing clean, well-documented, and maintainable code. Some of my workflow practices include:
-- **Version Control**: Committing early and often, with clear commit messages.
-- **Documentation**: Documenting code and workflows to ensure clarity and ease of understanding.
-- **Best Practices**: Emphasizing SOLID principles and design patterns in all my projects.
+## 🍥 About me
 
 ## 💻 Tech Stack:
 ### Programming languages
@@ -43,6 +27,23 @@ I believe in writing clean, well-documented, and maintainable code. Some of my w
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🌱 Learning & Growth
+I'm always learning and improving, but right now I'm into:
+  * **Desktop apps:** Developing desktop apps using SpringBoot and JavaFX.
+  * **Web development:** Building full-stack JavaScript web apps using React, Nodejs and MongoDB.
+  * **Game development:** Creating games using Unity and C#.
+
+### 🎯 Goals
+My current goals include:
+- **Expanding my GitHub profile** by working on more personal projects that showcase my skills.
+- Contributing to keeping **code clean** and **maintainable** by following good practices, proper documentation, and continuous learning.
+
+### ✨ Workflow & Practices
+I believe in writing clean, well-documented, and maintainable code. Some of my workflow practices include:
+- **Version Control**: Committing early and often, with clear commit messages.
+- **Documentation**: Documenting code and workflows to ensure clarity and ease of understanding.
+- **Best Practices**: Emphasizing SOLID principles and design patterns in all my projects.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AggroTheShark&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
