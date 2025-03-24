@@ -4,8 +4,6 @@ I'm a **Software Engineering** student from Asturias, **Spain**.
 
 I enjoy working mainly in **back-end**, and I love to offer solutions built with **clean code** and **maintainable designs**.
 
-## 🍥 About me
-
 ## 💻 Tech Stack:
 ### Programming languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,6 +25,8 @@ I enjoy working mainly in **back-end**, and I love to offer solutions built with
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## 🍥 About me
 
 ### 🌱 Learning & Growth
 I'm always learning and improving, but right now I'm into:
